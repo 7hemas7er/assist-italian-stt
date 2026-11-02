@@ -1,0 +1,7 @@
+hass_token
+data/
+models/
+rec/
+eval/
+*.wav
+__pycache__/
